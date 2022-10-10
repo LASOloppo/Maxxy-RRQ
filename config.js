@@ -48,8 +48,8 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
 global.sig = 'https://instagram.com/kahfiofc0' //Link Instagrammu
-global.sgh = 'https://github.com/Maxxy-Md' //Link Githubmu
-global.sgc = 'https://chat.whatsapp.com/I0prmYcZhKrCye0kiclzyt'
+global.sgh = 'https://github.com/LASOloppo' //Link Githubmu
+global.sgc = 'https://chat.whatsapp.com/Ky8ON4y2HVtG4JfLWT5VCj'
 global.sdc = '-' //Isi Pake Link Discordmu Kalo Gada Biarin aja
 global.snh = 'https://nhentai.net/g/HaramTod🗿' //Hmmm, Ini boleh kalian isi terserah :v
 
@@ -59,19 +59,19 @@ global.ppulsa = '085295374964' //Nomor SimCard Yang Kamu Pake
 global.psaweria = 'https://github.com/MaxxyBotz' //Link Saweriamu Kalo Nggada Ketik - aja
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6285295374964' //Nomor Bot
-global.nomorown = '6285380166282' //Nomor Owner
-global.namebot = '𝙔𝙩 𝙈𝙖𝙭𝙭𝙮 𝘽𝙤𝙩𝙯' //Nama Bot
-global.nameown = '𝙆𝘼𝙃𝙁𝙄-𝙓𝘿 ' // Nama Owner
+global.nomorbot = '6282319517960' //Nomor Bot
+global.nomorown = '6289510402229' //Nomor Owner
+global.namebot = 'Atsair Botz' //Nama Bot
+global.nameown = 'AtsairXD ' // Nama Owner
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6285380166282', '𝙆𝘼𝙃𝙁𝙄-𝙓𝘿🎐', true] //Ganti jd nomormu sama Namamu
+  ['6289510402229', 'Atsair Botz🎐', true] //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
-global.mods =   ['6285380166282'] // Want some help?
-global.prems =  ['6285380166282'] // Premium user bukan disini nambahinnya, ketik .addprem @user 10
+global.mods =   ['6289510402229'] // Want some help?
+global.prems =  ['6289510402229'] // Premium user bukan disini nambahinnya, ketik .addprem @user 10
 
 
 global.lolkey = 'apikeymu'
@@ -99,9 +99,9 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 𝙔𝙩 𝙈𝙖𝙭𝙭𝙮 𝘽𝙤𝙩𝙯  汉  」' //Main Watermark
-global.wm2 = '˘𝙔𝙩 𝙈𝙖𝙭𝙭𝙮 𝘽𝙤𝙩𝙯'
-global.wm3 = '⫹⫺ 𝙔𝙩 𝙈𝙖𝙭𝙭𝙮 𝘽𝙤𝙩𝙯 '
+global.wm = '                「 Atsair Botz  汉  」' //Main Watermark
+global.wm2 = '˘Atsair Botz'
+global.wm3 = '⫹⫺ Atsair Botz '
 global.botdate = `⫹⫺ 𝗛𝗮𝗿𝗶: ${week} ${date}`
 global.bottime = `𝗪𝗮𝗸𝘁𝘂 : ${wktuwib}`
 global.titlebot = '🎋 ┊ 𝗥𝗣𝗚 ʙᴏᴛ ᴡʜᴀᴛsᴀᴘᴘ'
@@ -368,9 +368,9 @@ global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
 global.stickpack = '.'
-global.stickauth = `𝙔𝙩 𝙈𝙖𝙭𝙭𝙮 𝘽𝙤𝙩𝙯  Whatsapp BOT\nwa.me/${global.nomorbot}`
-global.packname = '𝙆𝘼𝙃𝙁𝙄-𝙓𝘿'
-global.packname2 = ' 𝙔𝙩 𝙈𝙖𝙭𝙭𝙮 𝘽𝙤𝙩𝙯 '
+global.stickauth = `Atsair Botz  Whatsapp BOT\nwa.me/${global.nomorbot}`
+global.packname = 'Atsaie Botz'
+global.packname2 = ' Atsair Botz'
 
 global.multiplier = 38 // The higher, The harder levelup
 
