@@ -20,17 +20,17 @@ let handler  = async (m, { conn, command, args, usedPrefix, DevMode }) => {
 //------------ BIO
 let ppown = 'https://telegra.ph/file/cce9ab4551f7150f1970d.jpg'
 let teksbio = `${htki} *BIODATA* ${htka}
-${htjava} *💌 Nama* : 𝙔𝙩 𝙈𝙖𝙭𝙭𝙮 𝘽𝙤𝙩𝙯
-${htjava} *✉️ Nama RL* : Rahasia🗿
+${htjava} *💌 Nama* : Atsair
+${htjava} *✉️ Nama RL* : Gada
 ${htjava} *♂️ Gender* : Boys
 ${htjava} *🕋 Agama* : Islam
-${htjava} *⏰ Tanggal lahir* : Private 
-${htjava} *🎨 Umur* : 18
-${htjava} *🧮 Kelas* : 12
-${htjava} *🧩 Hobby* : Nonton Donghua, Chatting, Musik, Recode script bot
+${htjava} *⏰ Tanggal lahir* : 20
+${htjava} *🎨 Umur* : 14
+${htjava} *🧮 Kelas* : 9
+${htjava} *🧩 Hobby* : Nonton Anime, Chatting, Musik, Recode script bot
 ${htjava} *💬 Sifat* : Idiot, Tidak Ramah, Bilek, Prik, Nolep
-${htjava} *🗺️ Tinggal* : Indo, Aceh, Aceh Timur
-${htjava} *❤️ Suka* : kucing
+${htjava} *🗺️ Tinggal* : Indo, Sulsel
+${htjava} *❤️ Suka* : Bu Ira
 ${htjava} *💔 Benci* : autis, seleb
 
 ${htjava} *📷 ɪɴsᴛᴀɢʀᴀᴍ* : ${sig}
